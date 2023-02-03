@@ -12,3 +12,16 @@ Repositorio de trabajos prácticos de la materia Algoritmos y Programacion II (F
 - Colas de Prioridad y heaps
 - Grafos, primera parte: Usos, implementaciones y recorridos
 
+## Trabajos Practicos realizados 
+
+- [TP1](https://github.com/Fanusaez/Algoritmos2-Fiuba/tree/main/TP1)
+- [TP2](https://github.com/Fanusaez/Algoritmos2-Fiuba/tree/main/TP2)
+- [TP3](https://github.com/Fanusaez/Algoritmos2-Fiuba/tree/main/TP3)
+
+## Tipos de Datos Abstractos 
+
+- [Cola](https://github.com/Fanusaez/Algoritmos2-Fiuba/tree/main/Cola)
+- [Pila](https://github.com/Fanusaez/Algoritmos2-Fiuba/tree/main/Pila)
+- [Heap](https://github.com/Fanusaez/Algoritmos2-Fiuba/tree/main/Heap)
+- [Vector-Dinamico](https://github.com/Fanusaez/Algoritmos2-Fiuba/tree/main/Vector-Dinamico)
+- [ABB](https://github.com/Fanusaez/Algoritmos2-Fiuba/tree/main/Arbol-Binario-Busqueda(ABB))
