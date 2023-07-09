@@ -4,11 +4,11 @@ Heap Binario implementado en lenguaje C para la materia Algoritmos y programacio
 
 ## Compilacion
 
-Para realizar la compilacion de los tests:
+* Para realizar la compilacion de los tests:
 
 `gcc -Wall -Wextra -Werror  -ggdb -o0 *.c -o nombre_ejecutable`
 
-Para ejecutarlos: 
+* Para ejecutarlos: 
 
 `./nombre_ejecutable`
 
