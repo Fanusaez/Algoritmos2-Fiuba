@@ -193,7 +193,7 @@ static void pruebas_volumen_lista(size_t cantidad)
     int vector[cantidad];
     bool ok = true;
 
-    for (int i = 0; i < cantidad; i++)
+    for (size_t i = 0; i < cantidad; i++)
     {
         vector[i] = i;
         ok &= (lista_insertar_ultimo(lista, &vector[i]) == true);
@@ -201,7 +201,7 @@ static void pruebas_volumen_lista(size_t cantidad)
 
     print_test("Inserto todos los punteros a los elementos del vector", ok);
 
-    for (int i = 0; i < cantidad; i++)
+    for (size_t i = 0; i < cantidad; i++)
     {
         ok &= (lista_ver_primero(lista) == &vector[i]);
         ok &= (lista_borrar_primero(lista) == &vector[i]);

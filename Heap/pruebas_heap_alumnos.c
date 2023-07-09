@@ -59,7 +59,6 @@ void prueba_heap_desencolar(){
     print_test("veo si la cantidad es 0",heap_cantidad(heap)==0);
     print_test("busco maximo de heap el cual borre todos sus elementos",heap_ver_max(heap)==NULL);
     heap_destruir(heap,NULL);
-
 }
 
 
